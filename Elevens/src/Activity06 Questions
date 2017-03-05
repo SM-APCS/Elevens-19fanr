@@ -5,3 +5,4 @@
 > Yes. With numerical numbers you can only remove pairs.
 
 3) Does the game involve any strategy? That is, when more than one play is possible, does it matter which one is chosen? Briefly explain your answer.
+Yes. When more than one play is possible, removing three face cards increases the probability of your next removal.
